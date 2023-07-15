@@ -1,0 +1,12 @@
+.bannar-image{
+    height: 88vh;
+    background-size: cover;
+}
+#bannar-slide{
+    background-image: url("../../../img/bannar-3.jpg");
+    height: 88vh;
+    background-size: cover;
+}
+/* .slide-text{
+    top: 50%
+} */
